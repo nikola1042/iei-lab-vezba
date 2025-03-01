@@ -9,7 +9,7 @@ assignees: ''
 
 **Kao** [uloga]  
  **Potrebno mi je** [ostvarenje određene funkcionalnosti]  
- **Kako bi se** [postigao određeni benefit za projekat]  
+ **Kako bi** [se postigao određeni benefit za projekat]  
    
  ### Detalji i Pretpostavke
  * [zapišite sve važne relevantne činjenice koje već znate]
@@ -17,7 +17,7 @@ assignees: ''
  ### Kriterijum prihvatanja  
    
  ```gherkin
- Imajući u vidu [neki kontekst]
+ Dato (imajući u vidu) [neki kontekst, preduslov]
  Kada [određena akcija bude pokrenuta]
  Onda [rezultat te akcije treba da bude ono što želimo]
  ```
